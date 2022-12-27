@@ -91,8 +91,8 @@
 #### 89.地孤星 金钱豹子－汤隆![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/89.jpg) 地孤星 金钱豹子－汤隆
 #### 90.地角星 独角龙－邹润![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/90.jpg) 地角星 独角龙－邹润
 #### 91.地短星 出林龙－邹渊![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/91.jpg) 地短星 出林龙－邹渊
-#### 92.地囚星 旱地忽律－朱贵![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/92.jpg) 地囚星 旱地忽律－朱贵
-#### 93.地藏星 笑面虎－朱富![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/93.jpg) 地藏星 笑面虎－朱富
+#### 92.地藏星 笑面虎－朱富![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/92.jpg) 地藏星 笑面虎－朱富
+#### 93.地囚星 旱地忽律－朱贵![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/93.jpg) 地囚星 旱地忽律－朱贵
 #### 94.地平星 铁臂膊－蔡福![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/94.jpg) 地平星 铁臂膊－蔡福
 #### 95.地损星 一枝花－蔡庆![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/95.jpg) 地损星 一枝花－蔡庆
 #### 96.地察星 青眼虎－李云![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/96.jpg) 地察星 青眼虎－李云
