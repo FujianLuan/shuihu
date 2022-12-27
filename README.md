@@ -95,8 +95,8 @@
 #### 93.地囚星 旱地忽律－朱贵![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/93.jpg) 地囚星 旱地忽律－朱贵
 #### 94.地平星 铁臂膊－蔡福![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/94.jpg) 地平星 铁臂膊－蔡福
 #### 95.地损星 一枝花－蔡庆![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/95.jpg) 地损星 一枝花－蔡庆
-#### 96.地察星 青眼虎－李云![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/96.jpg) 地察星 青眼虎－李云
-#### 97.地奴星 催命判官－李立![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/97.jpg) 地奴星 催命判官－李立
+#### 96.地奴星 催命判官－李立![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/96.jpg) 地奴星 催命判官－李立
+#### 97.地察星 青眼虎－李云![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/97.jpg) 地察星 青眼虎－李云
 #### 98.地恶星 没面目－焦挺![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/98.jpg) 地恶星 没面目－焦挺
 #### 99.地丑星 石将军－石勇![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/99.jpg) 地丑星 石将军－石勇
 #### 100.地数星 小尉迟－孙新![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/100.jpg) 地数星 小尉迟－孙新
