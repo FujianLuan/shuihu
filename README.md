@@ -1,4 +1,4 @@
-# 水浒
+# 108水浒英雄卡
 
 #### 1.天魁星 呼保义－宋江![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/1.jpg) 天魁星 呼保义－宋江
 #### 2.天罡星 玉麒麟－卢俊义![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/2.jpg) 天罡星 玉麒麟－卢俊义
@@ -108,3 +108,17 @@
 #### 106.地耗星 白日鼠－白胜![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/106.jpg) 地耗星 白日鼠－白胜
 #### 107.地贼星 鼓上蚤－时迁![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/107.jpg) 地贼星 鼓上蚤－时迁
 #### 108.地狗星 金毛犬－段景住![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/108.jpg) 地狗星 金毛犬－段景住。
+
+# 六张恶人卡
+
+#### 高俅![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/高俅.jpg) 
+
+#### 童贯![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/童贯.jpg) 
+
+#### 蔡京![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/蔡京.jpg) 
+
+#### 高衙内![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/高衙内.jpg)
+
+#### 西门庆![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/西门庆.jpg) 
+
+#### 潘金莲![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/潘金莲.jpg) 
