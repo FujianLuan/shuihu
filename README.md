@@ -87,10 +87,10 @@
 #### 85.地伏星 金眼彪－施恩![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/85.jpg) 地伏星 金眼彪－施恩
 #### 86.地空星 小霸王－周通![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/86.jpg) 地空星 小霸王－周通
 #### 87.地僻星 打虎将－李忠![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/87.jpg) 地僻星 打虎将－李忠
-#### 88.地全星 鬼脸儿－杜兴![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/89.jpg) 地全星 鬼脸儿－杜兴
-#### 89.地孤星 金钱豹子－汤隆![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/88.jpg) 地孤星 金钱豹子－汤隆
-#### 90.地角星 独角龙－邹润![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/91.jpg) 地角星 独角龙－邹润
-#### 91.地短星 出林龙－邹渊![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/90.jpg) 地短星 出林龙－邹渊
+#### 88.地全星 鬼脸儿－杜兴![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/88.jpg) 地全星 鬼脸儿－杜兴
+#### 89.地孤星 金钱豹子－汤隆![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/89.jpg) 地孤星 金钱豹子－汤隆
+#### 90.地角星 独角龙－邹润![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/90.jpg) 地角星 独角龙－邹润
+#### 91.地短星 出林龙－邹渊![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/91.jpg) 地短星 出林龙－邹渊
 #### 92.地囚星 旱地忽律－朱贵![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/92.jpg) 地囚星 旱地忽律－朱贵
 #### 93.地藏星 笑面虎－朱富![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/93.jpg) 地藏星 笑面虎－朱富
 #### 94.地平星 铁臂膊－蔡福![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/94.jpg) 地平星 铁臂膊－蔡福
