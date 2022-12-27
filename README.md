@@ -27,10 +27,10 @@
 #### 25.天退星 插翅虎－雷横![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/25.jpg) 天退星 插翅虎－雷横
 #### 26.天寿星 混江龙－李俊![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/26.jpg) 天寿星 混江龙－李俊
 #### 27.天剑星 立地太岁－阮小二![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/27.jpg) 天剑星 立地太岁－阮小二
-#### 28.天罪星 短命二郎－阮小五![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/28.jpg) 天罪星 短命二郎－阮小五
-#### 29.天败星 活阎罗－阮小七![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/29.jpg) 天败星 活阎罗－阮小七
-#### 30.天平星 船火儿－张横![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/30.jpg) 天平星 船火儿－张横
-#### 31.天损星 浪里白条－张顺![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/31.jpg) 天损星 浪里白条－张顺
+#### 28.天平星 船火儿－张横![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/28.jpg) 天平星 船火儿－张横
+#### 29.天罪星 短命二郎－阮小五![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/29.jpg) 天罪星 短命二郎－阮小五
+#### 30.天损星 浪里白条－张顺![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/30.jpg) 天损星 浪里白条－张顺
+#### 31.天败星 活阎罗－阮小七![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/31.jpg) 天败星 活阎罗－阮小七
 #### 32.天牢星 病关索－杨雄![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/32.jpg) 天牢星 病关索－杨雄
 #### 33.天慧星 拚命三郎－石秀![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/33.jpg) 天慧星 拚命三郎－石秀
 #### 34.天暴星 两头蛇－解珍![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/34.jpg) 天暴星 两头蛇－解珍
