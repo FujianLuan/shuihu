@@ -56,7 +56,7 @@
 #### 54.地佐星 小温侯－吕方![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/54.jpg) 地佐星 小温侯－吕方
 #### 55.地佑星 赛仁贵－郭盛![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/55.jpg) 地佑星 赛仁贵－郭盛
 #### 56.地灵星 神 医－安道全![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/56.jpg) 地灵星 神 医－安道全
-#### 57.地兽星 紫髯伯－皇甫端![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/57.jpg) 地兽星 紫髯伯－皇甫端
+#### 57.地兽星 紫髯伯－皇甫瑞![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/57.jpg) 地兽星 紫髯伯－皇甫瑞
 #### 58.地微星 矮脚虎－王英![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/58.jpg) 地微星 矮脚虎－王英
 #### 59.地慧星 一丈青－扈三娘![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/59.jpg) 地慧星 一丈青－扈三娘
 #### 60.地暴星 丧门神－鲍旭![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/60.jpg) 地暴星 丧门神－鲍旭
