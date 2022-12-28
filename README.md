@@ -32,7 +32,7 @@
 #### 30.天损星 浪里白条－张顺![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/30.jpg) 天损星 浪里白条－张顺
 #### 31.天败星 活阎罗－阮小七![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/31.jpg) 天败星 活阎罗－阮小七
 #### 32.天牢星 病关索－杨雄![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/32.jpg) 天牢星 病关索－杨雄
-#### 33.天慧星 拚命三郎－石秀![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/33.jpg) 天慧星 拚命三郎－石秀
+#### 33.天慧星 拼命三郎－石秀![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/33.jpg) 天慧星 拚命三郎－石秀
 #### 34.天暴星 两头蛇－解珍![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/34.jpg) 天暴星 两头蛇－解珍
 #### 35.天哭星 双尾蝎－解宝![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/35.jpg) 天哭星 双尾蝎－解宝
 #### 36.天巧星 浪 子－燕青![](https://raw.githubusercontent.com/cycleuser/shuihu/main/img/36.jpg) 天巧星 浪 子－燕青
